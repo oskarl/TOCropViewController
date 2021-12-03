@@ -182,7 +182,7 @@ static const CGFloat kTOCropViewControllerToolbarHeight = 44.0f;
     self.inTransition = NO;
     
     // Re-enable translucency now that the animation has completed
-    self.cropView.simpleRenderMode = NO;
+    //self.cropView.simpleRenderMode = NO;
 
     // Now that the presentation animation will have finished, animate
     // the status bar fading out, and if present, the title label fading in
